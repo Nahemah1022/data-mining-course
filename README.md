@@ -1,3 +1,3 @@
 # data-mining-course
 
-Projects of data mining course in NCKU
+Practices of Stanford's Course CS246: Mining Massive Data Sets
